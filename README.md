@@ -71,3 +71,7 @@ This repository contains an **end-to-end enterprise analytics project** that inc
     │ Power BI Dashboards  │
     │ Streamlit App        │
     └──────────────────────┘
+
+# Overview of this entire project
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2ae3e764-d589-4fb9-b16c-32024bbbcd54" />
