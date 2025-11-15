@@ -1,0 +1,4 @@
+name: customer_360
+version: '1.0'
+config-version: 2
+profile: customer_360_profile
