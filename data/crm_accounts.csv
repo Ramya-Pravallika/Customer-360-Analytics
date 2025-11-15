@@ -1,0 +1,301 @@
+account_id,account_name,industry,region,arr,plan,created_at
+ACCT0001,Jensen-Marshall,SaaS,EMEA,10000,enterprise,2023-03-21
+ACCT0002,"Johnson, Lucas and Powell",Healthcare,EMEA,10000,starter,2024-03-09
+ACCT0003,Green-Ayala,Healthcare,EMEA,25000,enterprise,2023-05-12
+ACCT0004,Johnston PLC,Finance,APAC,25000,growth,2024-07-18
+ACCT0005,Burke-Santana,Retail,NA,10000,growth,2023-08-07
+ACCT0006,Hogan-Vega,Retail,NA,1000,growth,2023-01-30
+ACCT0007,Smith Inc,Healthcare,NA,25000,growth,2023-12-03
+ACCT0008,Griffith-Fuentes,Healthcare,APAC,5000,enterprise,2023-07-10
+ACCT0009,"Anderson, Goodwin and Meyer",Healthcare,NA,10000,growth,2023-12-22
+ACCT0010,Wilson and Sons,Finance,EMEA,25000,starter,2024-02-03
+ACCT0011,"Gonzalez, Kennedy and Gardner",Retail,APAC,10000,starter,2024-08-18
+ACCT0012,Daniels-Greer,Finance,NA,1000,starter,2023-10-29
+ACCT0013,"Martin, Hill and Taylor",Retail,NA,25000,enterprise,2024-08-20
+ACCT0014,"Hill, Cameron and Davila",Retail,APAC,1000,growth,2024-05-14
+ACCT0015,Watkins-Blair,Finance,APAC,1000,enterprise,2023-12-04
+ACCT0016,"Austin, Strickland and Diaz",Healthcare,EMEA,10000,starter,2023-03-09
+ACCT0017,Williams-Johnson,Finance,APAC,25000,starter,2023-12-19
+ACCT0018,"Rhodes, Wise and Gentry",Retail,EMEA,1000,starter,2023-12-23
+ACCT0019,Peterson-Simmons,Retail,NA,5000,enterprise,2024-03-29
+ACCT0020,Miller-Miller,Finance,EMEA,1000,growth,2024-06-10
+ACCT0021,Farmer PLC,SaaS,NA,1000,enterprise,2024-03-23
+ACCT0022,Mercer-Noble,SaaS,EMEA,25000,growth,2023-10-20
+ACCT0023,"Gomez, Hahn and Carter",Finance,NA,5000,enterprise,2023-09-17
+ACCT0024,"Spencer, Burgess and Miller",SaaS,NA,10000,starter,2024-01-02
+ACCT0025,"Gordon, Sharp and Ritter",SaaS,NA,5000,growth,2023-11-18
+ACCT0026,"Thomas, Kennedy and Davis",Retail,EMEA,25000,enterprise,2024-07-11
+ACCT0027,"Young, Espinoza and Harper",SaaS,APAC,10000,starter,2024-05-16
+ACCT0028,Campbell Ltd,Finance,EMEA,1000,enterprise,2024-02-20
+ACCT0029,"Perez, Gill and James",Healthcare,NA,1000,growth,2023-10-14
+ACCT0030,"Thomas, Sweeney and Williamson",SaaS,EMEA,10000,enterprise,2023-09-21
+ACCT0031,Clark-Crosby,Finance,NA,10000,starter,2023-10-06
+ACCT0032,Skinner-Martin,Finance,APAC,5000,enterprise,2023-07-07
+ACCT0033,Kennedy-Ruiz,Healthcare,NA,25000,growth,2023-12-03
+ACCT0034,Rodriguez Group,Retail,NA,5000,enterprise,2024-02-22
+ACCT0035,"Small, Burton and Johnston",Healthcare,APAC,5000,growth,2023-01-31
+ACCT0036,Vargas-Hughes,Healthcare,NA,25000,starter,2023-05-05
+ACCT0037,"Williams, Gentry and Love",SaaS,NA,10000,growth,2024-04-18
+ACCT0038,Gonzalez-Kramer,Retail,APAC,1000,starter,2023-12-27
+ACCT0039,Smith LLC,Finance,NA,10000,starter,2024-07-07
+ACCT0040,"Adams, Chandler and Lewis",Finance,NA,10000,enterprise,2023-12-28
+ACCT0041,"Thomas, Roberts and Mccoy",Healthcare,EMEA,10000,growth,2023-03-27
+ACCT0042,Rivera Ltd,Retail,APAC,5000,starter,2024-06-06
+ACCT0043,"Henderson, Cox and Suarez",Healthcare,APAC,25000,enterprise,2023-11-02
+ACCT0044,Harris-Lee,SaaS,APAC,1000,starter,2024-01-20
+ACCT0045,May-Woods,SaaS,APAC,25000,enterprise,2023-05-16
+ACCT0046,Hoover LLC,Retail,NA,25000,enterprise,2024-06-23
+ACCT0047,"Arroyo, Thompson and Miller",Healthcare,EMEA,25000,growth,2024-10-21
+ACCT0048,"Livingston, Thompson and Johnson",Finance,EMEA,10000,enterprise,2024-08-26
+ACCT0049,Coleman-Chambers,Finance,NA,5000,growth,2024-01-09
+ACCT0050,Ware-Quinn,Finance,NA,1000,growth,2023-06-21
+ACCT0051,Smith and Sons,Retail,APAC,1000,enterprise,2024-07-03
+ACCT0052,Beck PLC,SaaS,EMEA,5000,enterprise,2024-09-28
+ACCT0053,Thompson Group,Retail,NA,25000,enterprise,2023-12-08
+ACCT0054,Lewis Ltd,Retail,EMEA,10000,growth,2023-12-24
+ACCT0055,Miller Inc,Healthcare,APAC,5000,growth,2023-01-15
+ACCT0056,Jefferson Ltd,Retail,EMEA,10000,enterprise,2024-06-22
+ACCT0057,Porter-Fox,Finance,EMEA,1000,starter,2024-01-26
+ACCT0058,"Barton, Johnson and Ballard",Finance,APAC,1000,enterprise,2023-11-07
+ACCT0059,Marshall LLC,Healthcare,APAC,10000,starter,2024-03-24
+ACCT0060,"Beltran, Perkins and May",Finance,NA,5000,growth,2023-09-20
+ACCT0061,Harper LLC,Retail,EMEA,10000,enterprise,2023-11-22
+ACCT0062,Wagner-Meyers,Healthcare,EMEA,1000,growth,2024-09-30
+ACCT0063,"Lloyd, Sweeney and Perry",SaaS,NA,25000,enterprise,2024-08-05
+ACCT0064,"Powell, York and Mckee",Retail,EMEA,1000,starter,2023-12-19
+ACCT0065,Davis-Green,SaaS,APAC,1000,enterprise,2023-09-02
+ACCT0066,Deleon PLC,Retail,NA,1000,enterprise,2023-02-02
+ACCT0067,"Hooper, Allen and Johnson",SaaS,APAC,10000,starter,2023-12-13
+ACCT0068,Brewer-Rodriguez,Retail,APAC,10000,starter,2023-06-28
+ACCT0069,Contreras LLC,SaaS,APAC,1000,growth,2024-09-23
+ACCT0070,"Solomon, Carlson and Morris",Retail,APAC,5000,starter,2023-07-02
+ACCT0071,Ryan Ltd,SaaS,NA,1000,enterprise,2023-05-27
+ACCT0072,Herrera-Moore,Retail,NA,25000,growth,2023-03-17
+ACCT0073,Evans-Ruiz,Retail,APAC,10000,starter,2023-12-09
+ACCT0074,"Lee, Jackson and Vasquez",Finance,EMEA,1000,starter,2024-09-06
+ACCT0075,Carter PLC,SaaS,APAC,25000,growth,2023-08-08
+ACCT0076,"Warren, Pope and York",SaaS,NA,10000,growth,2024-01-17
+ACCT0077,"Lopez, Taylor and Gonzalez",Finance,APAC,5000,enterprise,2023-06-21
+ACCT0078,"Solis, Soto and Barnett",Healthcare,EMEA,10000,enterprise,2024-01-16
+ACCT0079,Holmes-Cantrell,SaaS,EMEA,1000,starter,2024-04-24
+ACCT0080,Watson-Russell,SaaS,APAC,10000,growth,2023-06-13
+ACCT0081,"Greene, Roberts and Stein",Finance,EMEA,10000,enterprise,2022-11-28
+ACCT0082,Hudson-Hurley,Healthcare,APAC,5000,enterprise,2024-07-15
+ACCT0083,"Morrow, Wolfe and Benitez",Finance,APAC,1000,enterprise,2023-08-12
+ACCT0084,"Robinson, Hill and Thomas",Healthcare,NA,1000,growth,2024-05-06
+ACCT0085,"Campbell, Gould and Rodriguez",Retail,EMEA,25000,starter,2022-11-23
+ACCT0086,White-Bennett,Finance,NA,1000,starter,2024-11-12
+ACCT0087,"Evans, Jackson and Oliver",SaaS,EMEA,25000,starter,2024-10-10
+ACCT0088,"Lewis, George and Fisher",Finance,APAC,5000,growth,2023-03-29
+ACCT0089,Hunter-Wong,Finance,NA,10000,growth,2024-07-14
+ACCT0090,Martinez PLC,Finance,EMEA,1000,growth,2024-11-07
+ACCT0091,Maldonado-Foster,SaaS,EMEA,5000,starter,2024-03-30
+ACCT0092,Mcdowell PLC,Healthcare,APAC,25000,starter,2023-01-08
+ACCT0093,Bryant PLC,Finance,EMEA,25000,enterprise,2023-03-14
+ACCT0094,"Martin, Gonzales and Jimenez",Retail,EMEA,1000,growth,2024-08-03
+ACCT0095,Rogers PLC,Finance,NA,5000,growth,2023-03-05
+ACCT0096,Martin-Freeman,Healthcare,EMEA,5000,growth,2024-01-28
+ACCT0097,"Martinez, Rodriguez and Rubio",SaaS,EMEA,10000,enterprise,2023-09-02
+ACCT0098,Davis Group,SaaS,EMEA,10000,growth,2023-12-03
+ACCT0099,Medina and Sons,Finance,EMEA,1000,enterprise,2023-06-18
+ACCT0100,Smith LLC,Healthcare,EMEA,5000,enterprise,2022-12-30
+ACCT0101,Clark Group,Retail,NA,1000,growth,2022-12-28
+ACCT0102,Hurst-Figueroa,Retail,EMEA,25000,enterprise,2023-01-23
+ACCT0103,"Smith, Bennett and Medina",SaaS,EMEA,25000,growth,2023-05-01
+ACCT0104,Shelton Inc,Retail,APAC,1000,starter,2024-03-11
+ACCT0105,"Roberts, Smith and Garcia",Retail,NA,25000,growth,2024-04-26
+ACCT0106,Logan-Patterson,Retail,NA,5000,starter,2023-03-03
+ACCT0107,Jones and Sons,Healthcare,EMEA,25000,enterprise,2023-12-15
+ACCT0108,"Thomas, Burnett and Johns",SaaS,EMEA,5000,enterprise,2024-11-02
+ACCT0109,Garza-Woods,SaaS,APAC,5000,enterprise,2024-08-14
+ACCT0110,"Gonzalez, Hurst and Burns",Healthcare,APAC,1000,enterprise,2023-12-02
+ACCT0111,"Graham, Cummings and Ortega",Finance,EMEA,5000,starter,2024-04-22
+ACCT0112,Higgins-Dalton,Healthcare,APAC,25000,starter,2023-02-26
+ACCT0113,"Shaw, Rogers and Martinez",Retail,EMEA,10000,starter,2023-06-12
+ACCT0114,Moore-Nixon,Finance,NA,1000,enterprise,2023-04-12
+ACCT0115,Gibson Ltd,SaaS,NA,25000,enterprise,2023-10-09
+ACCT0116,Lynch-Williams,Finance,EMEA,10000,growth,2024-05-11
+ACCT0117,"Jensen, Jones and Mullins",Retail,EMEA,25000,starter,2023-12-05
+ACCT0118,"Dixon, Clark and Watkins",Retail,NA,1000,growth,2024-07-03
+ACCT0119,"Bryant, Young and Murphy",Retail,APAC,10000,enterprise,2024-10-04
+ACCT0120,"Jones, Frye and Smith",Retail,NA,25000,growth,2023-05-19
+ACCT0121,"Green, Barrett and Pierce",Healthcare,APAC,25000,starter,2023-06-17
+ACCT0122,Estrada-Fitzgerald,Finance,EMEA,25000,enterprise,2023-05-22
+ACCT0123,"Villarreal, Moore and Rodriguez",SaaS,EMEA,5000,growth,2022-12-04
+ACCT0124,Holland PLC,SaaS,EMEA,10000,enterprise,2024-03-07
+ACCT0125,Garcia Group,Finance,NA,10000,starter,2024-11-13
+ACCT0126,"Robinson, Blackwell and Powell",Healthcare,APAC,25000,starter,2024-10-14
+ACCT0127,Bray Ltd,Healthcare,EMEA,10000,starter,2023-01-24
+ACCT0128,Frey-Rodriguez,Finance,EMEA,1000,starter,2024-09-15
+ACCT0129,"Pearson, Gonzalez and Shepherd",Healthcare,NA,25000,enterprise,2023-10-16
+ACCT0130,"Bennett, Lopez and Hernandez",Finance,NA,1000,starter,2023-04-22
+ACCT0131,"Reed, Smith and Lopez",Finance,APAC,5000,enterprise,2022-12-15
+ACCT0132,"Smith, Butler and Green",Retail,EMEA,10000,growth,2023-07-16
+ACCT0133,"Smith, Brown and Bell",Finance,NA,1000,starter,2022-12-22
+ACCT0134,"Ford, Miller and Fritz",Retail,APAC,10000,starter,2024-09-20
+ACCT0135,Buck-Alexander,Healthcare,APAC,1000,growth,2024-10-26
+ACCT0136,Holland-Burns,Finance,APAC,1000,growth,2024-03-18
+ACCT0137,Snyder-Hodges,Retail,APAC,25000,starter,2023-10-28
+ACCT0138,"Walker, Ortiz and Hill",SaaS,EMEA,5000,starter,2024-05-19
+ACCT0139,Alexander and Sons,Healthcare,EMEA,10000,growth,2024-08-14
+ACCT0140,Spears-Montgomery,Finance,APAC,10000,enterprise,2023-07-24
+ACCT0141,"Fields, Decker and Hutchinson",SaaS,EMEA,10000,enterprise,2024-06-09
+ACCT0142,Franco PLC,SaaS,EMEA,25000,enterprise,2024-02-27
+ACCT0143,Glover Inc,Healthcare,NA,10000,enterprise,2023-06-13
+ACCT0144,"Parker, Miller and Mitchell",Finance,NA,5000,growth,2024-05-12
+ACCT0145,Chen-Poole,Finance,EMEA,1000,growth,2024-03-16
+ACCT0146,Ball-Charles,Retail,APAC,5000,starter,2024-04-07
+ACCT0147,Kirk-Williams,Retail,NA,5000,growth,2024-07-09
+ACCT0148,Russell-Shannon,SaaS,EMEA,5000,starter,2024-04-13
+ACCT0149,Webb-Phillips,Healthcare,EMEA,10000,starter,2023-12-26
+ACCT0150,Ramirez Inc,SaaS,NA,25000,enterprise,2024-07-24
+ACCT0151,Taylor-Leach,Retail,NA,25000,starter,2023-05-07
+ACCT0152,Anderson-Howard,Retail,NA,5000,starter,2023-03-12
+ACCT0153,Contreras LLC,Finance,NA,25000,starter,2024-10-17
+ACCT0154,"Frazier, Jenkins and Harris",Retail,EMEA,25000,starter,2024-04-03
+ACCT0155,"Moore, Vang and Morris",Finance,APAC,10000,enterprise,2023-01-01
+ACCT0156,"Bridges, Ferguson and Henderson",Finance,APAC,10000,growth,2023-10-13
+ACCT0157,"Allen, Estrada and Gray",Retail,EMEA,10000,starter,2024-10-22
+ACCT0158,"Hampton, Huang and Gonzalez",Healthcare,APAC,1000,enterprise,2024-10-09
+ACCT0159,Davis-Long,Retail,EMEA,1000,growth,2024-08-22
+ACCT0160,Roberts-Cole,Retail,NA,1000,enterprise,2023-03-15
+ACCT0161,"Wolfe, Brown and Garcia",Retail,NA,5000,enterprise,2024-05-20
+ACCT0162,Clark PLC,Retail,EMEA,25000,starter,2022-11-28
+ACCT0163,"Phillips, Smith and Silva",SaaS,APAC,5000,enterprise,2023-11-21
+ACCT0164,"Woods, Williams and Arellano",Finance,APAC,5000,starter,2023-08-23
+ACCT0165,"Smith, Williams and Williams",Finance,APAC,10000,enterprise,2024-03-19
+ACCT0166,Manning-Wolfe,Finance,NA,1000,growth,2024-06-29
+ACCT0167,"Smith, Bradley and Chambers",Finance,NA,1000,growth,2024-01-22
+ACCT0168,"Morgan, Williams and Miller",SaaS,EMEA,5000,starter,2024-07-14
+ACCT0169,Warner-Mora,Healthcare,EMEA,10000,starter,2023-04-04
+ACCT0170,"Perry, Williams and Lopez",Finance,NA,1000,starter,2023-06-18
+ACCT0171,Williams LLC,SaaS,APAC,25000,enterprise,2024-02-02
+ACCT0172,Jones Group,Retail,APAC,10000,starter,2023-07-25
+ACCT0173,Davis Inc,Finance,APAC,25000,enterprise,2023-09-08
+ACCT0174,Brown-Mejia,Finance,EMEA,25000,enterprise,2024-01-03
+ACCT0175,Tucker LLC,Finance,NA,25000,growth,2024-10-02
+ACCT0176,Mills-Gardner,Retail,APAC,25000,growth,2023-03-18
+ACCT0177,Warren-Torres,Healthcare,APAC,5000,enterprise,2023-08-23
+ACCT0178,"Cunningham, Aguirre and Anderson",Healthcare,EMEA,10000,enterprise,2023-02-12
+ACCT0179,"Bowen, Allen and Martin",Healthcare,NA,25000,starter,2024-05-25
+ACCT0180,"Walsh, Cohen and Rivera",Finance,APAC,25000,growth,2023-04-05
+ACCT0181,Ryan PLC,Finance,APAC,1000,enterprise,2024-03-20
+ACCT0182,"Moore, Williams and Nash",SaaS,APAC,25000,starter,2023-04-21
+ACCT0183,Martinez Ltd,SaaS,APAC,10000,growth,2023-05-30
+ACCT0184,"Banks, Pham and Morton",Finance,APAC,5000,starter,2023-04-17
+ACCT0185,Peterson Inc,Finance,APAC,5000,enterprise,2023-04-06
+ACCT0186,Martinez-Dickson,Healthcare,APAC,25000,growth,2023-07-28
+ACCT0187,Li Ltd,SaaS,NA,5000,starter,2024-02-05
+ACCT0188,"Jones, Mendez and Gillespie",Retail,APAC,10000,growth,2024-01-21
+ACCT0189,Rojas-Mitchell,Finance,APAC,10000,enterprise,2024-05-21
+ACCT0190,"Gordon, Wilson and Tucker",Retail,NA,25000,growth,2023-06-05
+ACCT0191,Rodriguez Inc,Healthcare,EMEA,10000,growth,2024-10-16
+ACCT0192,Martin-Coleman,Finance,EMEA,5000,starter,2024-08-18
+ACCT0193,"Mcgee, Wallace and Friedman",Healthcare,APAC,1000,enterprise,2024-09-08
+ACCT0194,"Mason, Burton and Miller",SaaS,EMEA,1000,starter,2023-04-27
+ACCT0195,Murphy and Sons,Finance,EMEA,25000,growth,2023-07-27
+ACCT0196,"Duarte, Gray and Pacheco",Finance,APAC,10000,growth,2023-07-15
+ACCT0197,King Inc,Healthcare,EMEA,1000,enterprise,2023-04-30
+ACCT0198,Ochoa-Schmidt,Finance,NA,1000,enterprise,2024-01-24
+ACCT0199,Allen PLC,Finance,APAC,25000,growth,2023-02-23
+ACCT0200,Brown-Hoffman,SaaS,NA,5000,enterprise,2024-04-19
+ACCT0201,"Guzman, Anthony and Hodge",Finance,APAC,10000,starter,2024-03-01
+ACCT0202,Jackson and Sons,SaaS,APAC,1000,growth,2023-05-04
+ACCT0203,Medina Group,Retail,EMEA,5000,growth,2024-10-07
+ACCT0204,"Ramirez, Edwards and Thornton",Finance,APAC,5000,enterprise,2024-04-22
+ACCT0205,Gordon Group,Retail,NA,1000,enterprise,2024-11-06
+ACCT0206,"Mckenzie, Brooks and Smith",Retail,EMEA,25000,starter,2023-10-21
+ACCT0207,Bates Inc,Finance,NA,1000,starter,2024-09-13
+ACCT0208,"Price, Brown and Le",Retail,EMEA,10000,growth,2024-07-28
+ACCT0209,Marsh Inc,SaaS,NA,10000,growth,2024-07-05
+ACCT0210,"Castillo, Jackson and Grant",SaaS,EMEA,5000,starter,2023-03-12
+ACCT0211,Williams LLC,Finance,NA,5000,starter,2023-07-17
+ACCT0212,"Lawson, Lane and Young",Finance,NA,10000,enterprise,2024-05-20
+ACCT0213,Rocha-Brandt,Retail,EMEA,10000,starter,2023-09-06
+ACCT0214,Johnson-Miller,Retail,APAC,25000,enterprise,2023-06-10
+ACCT0215,Lewis-Sellers,Finance,EMEA,5000,growth,2023-09-09
+ACCT0216,Henderson-Bowman,Finance,EMEA,5000,growth,2023-07-28
+ACCT0217,Braun and Sons,Retail,APAC,1000,growth,2024-03-27
+ACCT0218,Vang-Williams,Retail,EMEA,1000,enterprise,2023-07-27
+ACCT0219,Bell-Silva,SaaS,EMEA,1000,enterprise,2023-01-30
+ACCT0220,"Bender, Maldonado and Macdonald",Finance,APAC,5000,growth,2024-10-29
+ACCT0221,"Holmes, Munoz and Shannon",Retail,NA,10000,growth,2023-04-19
+ACCT0222,"Andrade, Smith and Jefferson",Retail,APAC,1000,growth,2023-01-23
+ACCT0223,"Ward, Ryan and Murray",Finance,APAC,10000,growth,2024-10-29
+ACCT0224,Gardner-Hicks,SaaS,APAC,5000,growth,2023-01-11
+ACCT0225,"Cox, Mcmillan and Silva",Healthcare,NA,10000,starter,2023-09-22
+ACCT0226,"Shaw, Cardenas and Hughes",Retail,APAC,10000,growth,2023-12-15
+ACCT0227,Davis and Sons,Healthcare,EMEA,5000,growth,2024-07-18
+ACCT0228,Rios-York,Finance,APAC,10000,starter,2023-08-01
+ACCT0229,Barnes Group,Healthcare,NA,1000,starter,2024-07-26
+ACCT0230,"Thomas, Buchanan and Ramos",Finance,EMEA,5000,growth,2023-06-11
+ACCT0231,Patel PLC,Retail,EMEA,1000,growth,2024-08-11
+ACCT0232,Hernandez LLC,Healthcare,EMEA,5000,growth,2023-03-25
+ACCT0233,Reyes Group,SaaS,NA,10000,starter,2024-01-06
+ACCT0234,Graham LLC,SaaS,APAC,25000,growth,2023-05-11
+ACCT0235,"Reilly, Rodriguez and Stephenson",SaaS,APAC,10000,starter,2023-04-20
+ACCT0236,"Walsh, Herman and Woods",Finance,EMEA,1000,starter,2023-09-28
+ACCT0237,"Sullivan, Calderon and Schneider",SaaS,EMEA,25000,starter,2022-12-15
+ACCT0238,Nelson Ltd,Finance,NA,25000,starter,2024-10-18
+ACCT0239,Spencer Inc,Finance,APAC,10000,growth,2023-03-22
+ACCT0240,Stafford Inc,Finance,EMEA,25000,enterprise,2024-06-28
+ACCT0241,Carroll Ltd,Healthcare,NA,5000,enterprise,2023-01-30
+ACCT0242,"King, Martin and Powell",SaaS,APAC,5000,enterprise,2023-04-13
+ACCT0243,"Davidson, Weber and Fletcher",Retail,EMEA,25000,enterprise,2023-11-28
+ACCT0244,"Boyer, Rivera and Cameron",Retail,EMEA,10000,enterprise,2023-04-24
+ACCT0245,Lyons Group,Healthcare,EMEA,5000,starter,2024-07-27
+ACCT0246,Oliver-Jenkins,Healthcare,APAC,1000,growth,2024-07-06
+ACCT0247,"Ford, Mitchell and Stevens",SaaS,APAC,25000,enterprise,2023-11-03
+ACCT0248,Morris Inc,SaaS,APAC,5000,enterprise,2023-05-04
+ACCT0249,Li-Cox,SaaS,EMEA,10000,starter,2024-07-16
+ACCT0250,"Cochran, Crawford and Meyer",Healthcare,APAC,1000,enterprise,2024-06-28
+ACCT0251,Bell-Brooks,SaaS,EMEA,10000,growth,2024-10-18
+ACCT0252,Yates Inc,Healthcare,NA,1000,enterprise,2023-01-28
+ACCT0253,Hicks and Sons,Retail,APAC,5000,starter,2024-09-10
+ACCT0254,Hansen and Sons,SaaS,APAC,25000,growth,2024-10-14
+ACCT0255,"Shaw, May and Stephens",SaaS,APAC,10000,starter,2024-04-16
+ACCT0256,"Hall, White and Johnson",Retail,NA,10000,enterprise,2023-03-21
+ACCT0257,"Jackson, Brennan and Carlson",SaaS,EMEA,25000,enterprise,2023-05-13
+ACCT0258,Hester-Nunez,Finance,NA,1000,starter,2024-11-04
+ACCT0259,"Glass, Jones and Bailey",SaaS,APAC,25000,starter,2024-03-20
+ACCT0260,Gonzalez Group,Retail,APAC,10000,starter,2023-01-05
+ACCT0261,"Anderson, Smith and Bowman",SaaS,APAC,5000,enterprise,2023-09-16
+ACCT0262,Davis-Carson,Retail,NA,25000,starter,2022-12-26
+ACCT0263,"Williams, Conner and Miller",SaaS,NA,10000,growth,2023-03-07
+ACCT0264,"Brown, Anderson and Miller",SaaS,EMEA,1000,starter,2022-11-30
+ACCT0265,Freeman Group,SaaS,EMEA,1000,starter,2023-12-13
+ACCT0266,"Moore, Molina and Harrison",Retail,NA,1000,starter,2023-01-12
+ACCT0267,Bowen and Sons,Retail,NA,25000,starter,2023-09-04
+ACCT0268,"Dunn, Bowen and Hernandez",Finance,APAC,1000,growth,2022-11-27
+ACCT0269,Edwards PLC,SaaS,NA,5000,starter,2023-03-30
+ACCT0270,Cummings Inc,Retail,APAC,25000,growth,2023-10-15
+ACCT0271,"Medina, Floyd and Hill",Retail,NA,10000,growth,2023-09-30
+ACCT0272,Brewer-Buchanan,Healthcare,APAC,25000,starter,2023-03-19
+ACCT0273,"Foster, Brown and Thomas",Retail,NA,10000,growth,2024-07-17
+ACCT0274,Wells-Chapman,Retail,EMEA,1000,enterprise,2023-12-17
+ACCT0275,White LLC,Finance,APAC,10000,growth,2024-07-02
+ACCT0276,Jennings-Simpson,Healthcare,EMEA,25000,starter,2024-04-28
+ACCT0277,Ford-Pierce,SaaS,APAC,25000,growth,2023-07-09
+ACCT0278,Smith Ltd,Retail,EMEA,1000,starter,2023-08-16
+ACCT0279,Gutierrez-Campbell,SaaS,APAC,25000,enterprise,2023-10-18
+ACCT0280,Rodgers Inc,Finance,EMEA,25000,enterprise,2024-06-08
+ACCT0281,Terry LLC,SaaS,APAC,25000,enterprise,2023-09-01
+ACCT0282,Smith-Torres,Retail,EMEA,1000,starter,2023-03-05
+ACCT0283,Edwards LLC,Retail,NA,10000,growth,2024-10-04
+ACCT0284,Crawford Group,Retail,NA,10000,enterprise,2024-01-03
+ACCT0285,Martinez-Jordan,Healthcare,EMEA,25000,starter,2024-02-17
+ACCT0286,Morton Group,Healthcare,NA,10000,enterprise,2024-02-19
+ACCT0287,Cuevas-Acosta,Healthcare,APAC,1000,growth,2023-01-30
+ACCT0288,"Malone, Martinez and Simon",Retail,NA,5000,growth,2024-04-05
+ACCT0289,Gonzales Inc,Retail,EMEA,1000,growth,2023-03-25
+ACCT0290,Wade-Hall,SaaS,APAC,1000,starter,2023-08-19
+ACCT0291,Sanders-Frank,Retail,NA,10000,starter,2023-03-01
+ACCT0292,"Rivera, Mcdaniel and Hartman",Healthcare,EMEA,10000,enterprise,2024-02-23
+ACCT0293,"Gallagher, Hanson and Suarez",Retail,NA,10000,starter,2023-01-17
+ACCT0294,"Smith, Shaw and Barron",Healthcare,NA,10000,starter,2023-10-21
+ACCT0295,"Barnett, Griffin and Humphrey",Retail,APAC,5000,starter,2023-05-02
+ACCT0296,"Beck, Miles and Malone",SaaS,APAC,1000,growth,2024-03-09
+ACCT0297,"Moore, Macdonald and Cook",Healthcare,NA,25000,starter,2023-05-14
+ACCT0298,Garcia-Rollins,SaaS,NA,1000,enterprise,2023-06-13
+ACCT0299,Porter Group,Finance,APAC,25000,starter,2023-03-16
+ACCT0300,Hamilton-Moon,SaaS,NA,25000,growth,2023-06-26
